@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "jdc-backstage-test-cookecuttr"
+  annotations:
+    github.com/project-slug: cookecuttr/jdc-cookecuttr-test
 spec:
   type: service
   owner: user:guest
