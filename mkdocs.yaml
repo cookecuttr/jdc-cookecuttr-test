@@ -2,6 +2,8 @@ site_name: 'JDC Test'
 
 nav: 
   - Home: index.md
+  - API 1: apis/api1/docs/index.md
+  - API 2: apis/api2/docs/index.md
 
 plugins:
   - techdocs-core
