@@ -4,6 +4,7 @@ metadata:
   name: "jdc-backstage-test-cookecuttr"
   annotations:
     github.com/project-slug: cookecuttr/jdc-cookecuttr-test
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:guest
